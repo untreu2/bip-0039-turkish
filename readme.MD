@@ -2,9 +2,9 @@ Orjinali İngilizce olan, Bitcoin özel anahtar yaratım sürecinde kullanılan 
 
 Kurallar:
 
-1. Kelimeler en az 4 harften oluşmalı. (okul✅, yol🚫, anahtar✅, su🚫)
-2. Kelimelerin ilk 4 harfi şu an ki İngilizce, Türkçe ve diğer dillerdeki seed kelimelerden farklı olmalı. (artist🚫, atom🚫, yemek✅)
-3.Kelimelerde simge, büyük harf, Türkçe'ye özgü harf ve semboller olmamalıdır. (çşöüığâ) (okul ✅, içecek 🚫, hâla 🚫, öğretmen 🚫)
+1. Kelimeler en az 3, en fazla 8 harften oluşmalı. (okul✅, yol✅, anahtar✅, su🚫, ornitorenk🚫)
+2. Kelimelerin ilk 3 harfi şu an ki İngilizce, Türkçe ve diğer dillerdeki seed kelimelerden farklı olmalı. (artist🚫, atom🚫, yemek✅)
+3. Kelimelerde simge, büyük harf, Türkçe'ye özgü harf ve semboller olmamalıdır. (çşöüığâ) (okul ✅, içecek 🚫, hâla 🚫, öğretmen 🚫)
 4. Eğer kullanılacak kelime fiil ise, emir kipi kullanılmalı ve -yapmak -etmek gibi iki kelimeden oluşan fiiller kullanılmamalıdır.
 5. Harflerin arasında boşluk olmamalıdır.
 6. Eş anlamlı kelimeler olabildiğince kullanılmamalıdır.
