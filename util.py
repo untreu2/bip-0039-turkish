@@ -1,8 +1,4 @@
-
-# sort the array
-def sort(words):
-  sorted_words = sorted(words)
-  return sorted_words
+import sys
 
 # write array to file
 def writeToFile(arr):
@@ -20,6 +16,9 @@ def readFromTXTFileAndGenerateArray(filename):
     words = file.read().splitlines()
   for word in words:
     arr.append(word)
+  if len(arr)==0:
+    print("İlgili dosyada yazı yok. Program durduruldu.")
+    sys.exit()
   return arr
 
 # Remove duplicates from array
@@ -61,22 +60,22 @@ def getDiffCountOfTwoWords(str1, str2):
 def checkElementsInArray(arr):
   arr2 = []
   for a in arr:
-    if len(a)<4:
+    if len(a)<3:
       print('ERROR. Too short:', a)
-
+      continue
     if a in arr2:
       print('ERROR. Duplicate:', a)
-    else:
-      for a2 in arr2:
-        if a[0:4] == a2[0:4]:
-          print('ERROR. Words have the same first 4 letters:', a, a2)
-        else:
-          if getDiffCountOfTwoWords(a,a2)<2:
-            print('ERROR. Words are similar:', a, a2)
-    arr2.append(a)
+      continue
+    for a2 in arr2:
+      if a[0:3] == a2[0:3]:
+        print('ERROR. Words have the same first 3 letters:'+a[0:3]+'|', a, a2)
+        continue
     for c in a:
       if c.isupper():
         print('ERROR. Contains capital letter:', a)
-        break
+        continue
     if 'â' in a or 'ı' in a or 'ğ' in a or 'ü' in a or 'ş' in a or ' ' in a or 'ö' in a or 'ç' in a or ':' in a  or '_' in a:
       print('ERROR. Contains a non-english letter or a sign:', a)
+      continue
+    arr2.append(a)
+  return arr2
