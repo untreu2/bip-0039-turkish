@@ -63,6 +63,26 @@ def checkWithOtherSeeds(arr):
   print('Passed while comparing with other seeds:', arr_to_be_added)
   return arr_to_be_added
 
+def checkWithOtherTurkishSeeds(arr):
+  arr_not_to_be_added = set()
+  arr_to_be_added = []
+  arr_all = readFromTXTFileAndGenerateArray(DIR_PATH+HELPER_FOLDER+'final.txt')
+  for a in arr:
+    for a_all in arr_all:
+      a_ = a
+      a_all_ = a_all
+      if len(a) == 3:
+        a_ = a + ' '
+      if len(a_all) == 3:
+        a_all_ = a_all + ' '
+      if a_[:4] == a_all_[:4]:
+        arr_not_to_be_added.add(a)
+  
+  arr_to_be_added = list(set(arr) - set(arr_not_to_be_added))
+  print('Failed while comparing with other Turkish seeds:',arr_not_to_be_added)
+  print('Passed while comparing with other Turkish seeds:', arr_to_be_added)
+  return arr_to_be_added
+
 def createOutputFile(filename, arr):
 
   if not os.path.exists(DIR_PATH+OUTPUT_FOLDER):

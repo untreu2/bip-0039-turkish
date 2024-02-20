@@ -1,4 +1,4 @@
-from functions import getWordsFromInputFileAndGenerateArray, removeDuplicatesAndFalsyWordsAndSort, checkFirst4Letters, checkWithOtherSeeds, createOutputFile, getFilenamesFromFolder
+from functions import getWordsFromInputFileAndGenerateArray, removeDuplicatesAndFalsyWordsAndSort, checkFirst4Letters, checkWithOtherSeeds, checkWithOtherTurkishSeeds, createOutputFile, getFilenamesFromFolder
 
 filesTobeTested = getFilenamesFromFolder()
 print(filesTobeTested)
@@ -16,6 +16,7 @@ for index, file in enumerate(filesTobeTested):
     # Check with other seed words
     arr = checkWithOtherSeeds(arr)
 
+    arr = checkWithOtherTurkishSeeds(arr)
   createOutputFile(file, arr)
 
   print(str(index+1)+". Process for " + file + " completed.")

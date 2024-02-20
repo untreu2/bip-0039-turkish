@@ -11,7 +11,6 @@ ahmak
 aidiyet
 aile
 ajans
-ajitasyon
 akademi
 akasya
 akort
@@ -57,13 +56,7 @@ anket
 anlam
 anne
 anonim
-ansiklopedi
-antropoloji
-apandisit
 aptal
-aristokrasi
-aritmetik
-arkeoloji
 arktik
 armut
 aroma
@@ -175,7 +168,6 @@ cezbet
 ciddi
 cihaz
 cilt
-cumhuriyet
 daha
 daire
 dakika
@@ -185,7 +177,6 @@ damla
 dans
 darbe
 davet
-davlumbaz
 davran
 davul
 dayan
@@ -195,16 +186,12 @@ dedikodu
 defa
 defol
 dejenere
-dekorasyon
 deli
-demiryolu
 demle
-demokrasi
 denge
 deniz
 derece
 derinlik
-dermatoloji
 ders
 destek
 detay
@@ -228,7 +215,6 @@ disiplin
 disket
 diyagram
 diyet
-dizanteri
 dizel
 dizginle
 dizin
@@ -279,11 +265,8 @@ emniyet
 emret
 emsal
 enerji
-enflasyon
 engel
-enjeksiyon
 enkaz
-enstantane
 epik
 erdem
 erit
@@ -299,7 +282,6 @@ esirge
 eski
 esnaf
 esnek
-esrarengiz
 estetik
 etek
 etiket
@@ -341,11 +323,9 @@ fiziksel
 flora
 fokurda
 folyo
-fonksiyon
 forvet
 fosil
 fotokopi
-fraksiyon
 frekans
 frikik
 futbol
@@ -354,7 +334,6 @@ ganimet
 garip
 garnizon
 garson
-gastronomi
 gazete
 gazi
 gece
@@ -395,7 +374,6 @@ hala
 halife
 hamak
 hangi
-hapishane
 harca
 hareket
 harika
@@ -412,7 +390,6 @@ hecele
 hedef
 hediye
 hele
-helikopter
 helyum
 hemen
 hentbol
@@ -421,13 +398,11 @@ herhangi
 herkes
 hesap
 hevesli
-heyecanlan
 hicaz
 hijyen
 hikaye
 hindi
 hisset
-hiyeroglif
 hizmet
 hobi
 hokey
@@ -469,8 +444,6 @@ imkan
 imza
 ince
 inkar
-inorganik
-inovasyon
 insan
 internet
 inziva
@@ -486,7 +459,6 @@ ispiyon
 israf
 istasyon
 iste
-istiridye
 istop
 itaat
 itibar
@@ -503,8 +475,6 @@ jelatin
 jeofizik
 jeton
 jigolo
-jimnastik
-jinekolog
 judo
 kabile
 kablo
@@ -536,7 +506,6 @@ kaplan
 kapsam
 karakter
 karbon
-kardiyoloji
 kare
 kargo
 karides
@@ -563,7 +532,6 @@ kemer
 kenar
 kent
 kereste
-kertenkele
 kesin
 kibrit
 kilit
@@ -577,7 +545,6 @@ kitap
 kivi
 klasik
 klinik
-koalisyon
 kobra
 koca
 kokpit
@@ -593,10 +560,7 @@ konser
 kontrol
 konu
 konvoy
-kooperatif
-koordinasyon
 kopya
-koramiral
 koridor
 korku
 korna
@@ -620,7 +584,6 @@ kudret
 kuduz
 kulak
 kullan
-kumarhane
 kundak
 kural
 kurdele
@@ -647,7 +610,6 @@ litre
 liyakat
 logo
 lohusa
-lokomotif
 losyon
 madalya
 madde
@@ -672,7 +634,6 @@ marmelat
 masa
 masum
 matbaa
-matematik
 mavi
 maymun
 mayonez
@@ -684,7 +645,6 @@ medya
 megafon
 mekan
 mektup
-melankoli
 meltem
 memeli
 memnun
@@ -752,7 +712,6 @@ nitelik
 nitrojen
 niye
 nokta
-nostaljik
 numara
 numune
 obez
@@ -760,7 +719,6 @@ ocak
 odaklan
 ofis
 ofsayt
-okaliptus
 okazyon
 oksijen
 oktav
@@ -778,12 +736,10 @@ onur
 opsiyon
 orada
 ordu
-orgeneral
 orijinal
 orkestra
 orkide
 orman
-ornitorenk
 orta
 ortopedi
 oryantal
@@ -804,7 +760,6 @@ pamuk
 pankreas
 panorama
 parantez
-parlamento
 parmak
 parodi
 parsel
@@ -822,7 +777,6 @@ peki
 pembe
 pencere
 penguen
-penisilin
 perde
 pesimist
 peynir
@@ -838,21 +792,17 @@ plaka
 poker
 polis
 polo
-polyester
 porsiyon
 portakal
 poyraz
 pozisyon
-pragmatik
 pratik
 prens
 problem
 program
 proje
-psikoloji
 pudra
 puro
-putperest
 radyo
 rafine
 ragbi
@@ -894,11 +844,9 @@ saksafon
 sakla
 sallan
 salon
-salyangoz
 sanayi
 sandalye
 sanki
-santimetre
 saray
 sarraf
 sauna
@@ -944,7 +892,6 @@ sirk
 sistem
 site
 sivil
-sivrisinek
 siyah
 siyonizm
 skandal
@@ -954,7 +901,6 @@ sokak
 somon
 somut
 sonbahar
-sonderece
 sonra
 sonsuz
 sonunda
@@ -968,7 +914,6 @@ spor
 stil
 stok
 sucuk
-suistimal
 sula
 surat
 tabak
@@ -1080,7 +1025,6 @@ varsay
 varyant
 vatka
 vazo
-vejetaryen
 veranda
 veya
 vinyet
