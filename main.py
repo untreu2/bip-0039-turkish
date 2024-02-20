@@ -12,9 +12,9 @@ for index, file in enumerate(filesTobeTested):
 
   # Check the first 3/4 letters and remove them if they are the same
   arr = checkFirst4Letters(arr)
-
-  # Check with other seed words
-  arr = checkWithOtherSeeds(arr)
+  if 'final' not in file:
+    # Check with other seed words
+    arr = checkWithOtherSeeds(arr)
 
   createOutputFile(file, arr)
 

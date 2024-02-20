@@ -20,8 +20,8 @@ def removeDuplicatesAndFalsyWordsAndSort(arr):
     if re.search(r'[^a-zA-Z\s]', obj) or any(char in obj for char in ['x', 'w', 'q']):
       print('ERROR. Contains a non-english letter or a sign:', obj)
       continue
-    elif len(obj)<3:
-      print('ERROR. Too short:', obj)
+    elif len(obj)<3 or len(obj)>8:
+      print('ERROR. Length:', str(len(obj)), obj)
       continue
     else:
       arr2.append(obj.lower())
