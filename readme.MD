@@ -14,6 +14,6 @@ Kurallar:
 
 - Diğer dillerdeki kelimelere ve İngilizce dilindeki orjinal kelimelere other_languages klasöründen ulaşılabilir: https://github.com/efecini-plentific/bip-0039-turkish/tree/master/other_languages
 
-- Eklenmiş kelimelerin son haline şuradan ulaşılabilir: https://github.com/efecini-plentific/bip-0039-turkish/blob/master/do_not_change/v11_checked.txt
+- Eklenmiş kelimelerin son haline final isimli dosyadan ulaşılabilir: https://github.com/efecini-plentific/bip-0039-turkish/blob/master/HELPER_FILES/final.txt
 
 - Kelimelerin daha önceki versiyonlarına şuradan ulaşabilirsiniz. https://github.com/efecini-plentific/bip-0039-turkish/tree/master/do_not_change
