@@ -6,7 +6,7 @@ Kurallar:
 2. Kelimelerin ilk 3 harfi şu an ki İngilizce, Türkçe ve diğer dillerdeki seed kelimelerden farklı olmalı. (artist🚫, atom🚫, yemek✅)
 3. Kelimelerde simge, büyük harf, Türkçe'ye özgü harf ve semboller olmamalıdır. (çşöüığâ) (okul ✅, içecek 🚫, hâla 🚫, öğretmen 🚫)
 4. Eğer kullanılacak kelime fiil ise, emir kipi kullanılmalı ve -yapmak -etmek gibi iki kelimeden oluşan fiiller kullanılmamalıdır.
-5. Harflerin arasında boşluk olmamalıdır.
+5. Harflerin arasında boşluk olmamalıdır.  (piyasa✅, ucundan tut🚫)
 6. Eş anlamlı kelimeler olabildiğince kullanılmamalıdır.
 7. Türkçe kelimelerde en az 2 harf farklı olacaktır.(keman✅ - kemer✅ - kenar✅, tepe✅ - tepki✅ - terfi✅ - tere🚫 )
 8. Özel isim kullanılmamalıdır.
