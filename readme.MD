@@ -17,3 +17,13 @@ Kurallar:
 - Eklenmiş kelimelerin son haline final isimli dosyadan ulaşılabilir: https://github.com/efecini-plentific/bip-0039-turkish/blob/master/HELPER_FILES/final.txt
 
 - Kelimelerin daha önceki versiyonlarına şuradan ulaşabilirsiniz. https://github.com/efecini-plentific/bip-0039-turkish/tree/master/do_not_change
+
+- Son kontrollerde şunları her harfle başlayan kelimeler için bulk olarak şunları yap:
+(Google Sheet Belgesi aç. Tüm harfler için ayrı sayfalar aç, başta Kaan ve Emir olmak üzere, kontrol etmek isteyenlere izin ver.
+Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle.)
+
+TDK'dan imla ve anlam kontrolü. Uymayan harf kontrolü
+Eş anlamlı başka bir kelime var mı?
+Bilinen bir kelime mi? Çok fazla İngilizce veya Arapçaya mı kayıyor?
+Kötü/argo/şiddet içeren kelime kontrolü.
+Aynı harfte işk 4 kelime kontrolü.
