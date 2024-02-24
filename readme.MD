@@ -22,7 +22,7 @@ Kurallar:
 2048 kelime bulunduktan sonra yapılacak son kontroller
 - Son kontrollerde şunları her harfle başlayan kelimeler için bulk olarak şunları yap:
 (Google Sheet Belgesi aç. Tüm harfler için ayrı sayfalar aç, başta Kaan ve Emir olmak üzere, kontrol etmek isteyenlere izin ver.
-Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle.)
+Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle. Dağıtık iş kanıtı.)
 
 1. TDK'dan imla ve anlam kontrolü. Uymayan harf kontrolü
 2. Eş anlamlı başka bir kelime var mı?
@@ -30,3 +30,4 @@ Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle.)
 4. Kötü/argo/şiddet içeren kelime kontrolü.(Örn:tosuncuk, pezevenk)
 5. Aynı harfte işk 4 kelime kontrolü.
 6. Hayat görüşümüze ters kelimeler var mı? (Örnek:nihilist)
+7. Özel isim kotrolü
