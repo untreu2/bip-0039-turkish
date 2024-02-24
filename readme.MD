@@ -18,6 +18,7 @@ Kurallar:
 
 - Kelimelerin daha önceki versiyonlarına şuradan ulaşabilirsiniz. https://github.com/efecini-plentific/bip-0039-turkish/tree/master/do_not_change
 
+
 2048 kelime bulunduktan sonra yapılacak son kontroller
 - Son kontrollerde şunları her harfle başlayan kelimeler için bulk olarak şunları yap:
 (Google Sheet Belgesi aç. Tüm harfler için ayrı sayfalar aç, başta Kaan ve Emir olmak üzere, kontrol etmek isteyenlere izin ver.
