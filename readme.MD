@@ -22,8 +22,8 @@ Kurallar:
 (Google Sheet Belgesi aç. Tüm harfler için ayrı sayfalar aç, başta Kaan ve Emir olmak üzere, kontrol etmek isteyenlere izin ver.
 Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle.)
 
-TDK'dan imla ve anlam kontrolü. Uymayan harf kontrolü
-Eş anlamlı başka bir kelime var mı?
-Bilinen bir kelime mi? Çok fazla İngilizce veya Arapçaya mı kayıyor?
-Kötü/argo/şiddet içeren kelime kontrolü.
-Aynı harfte işk 4 kelime kontrolü.
+1. TDK'dan imla ve anlam kontrolü. Uymayan harf kontrolü
+2. Eş anlamlı başka bir kelime var mı?
+3. Bilinen bir kelime mi? Çok fazla İngilizce veya Arapçaya mı kayıyor?
+4. Kötü/argo/şiddet içeren kelime kontrolü.
+5. Aynı harfte işk 4 kelime kontrolü.
