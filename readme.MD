@@ -31,3 +31,4 @@ Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle. Dağ
 5. Aynı harfte işk 4 kelime kontrolü.
 6. Hayat görüşümüze ters kelimeler var mı? (Örnek:nihilist)
 7. Özel isim kontrolü
+8. Kontrol edenin hoşuna gitmeyen bir kelime bile olabilir.
