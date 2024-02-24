@@ -18,6 +18,7 @@ Kurallar:
 
 - Kelimelerin daha önceki versiyonlarına şuradan ulaşabilirsiniz. https://github.com/efecini-plentific/bip-0039-turkish/tree/master/do_not_change
 
+2048 kelime bulunduktan sonra yapılacak son kontroller
 - Son kontrollerde şunları her harfle başlayan kelimeler için bulk olarak şunları yap:
 (Google Sheet Belgesi aç. Tüm harfler için ayrı sayfalar aç, başta Kaan ve Emir olmak üzere, kontrol etmek isteyenlere izin ver.
 Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle.)
@@ -27,3 +28,4 @@ Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle.)
 3. Bilinen bir kelime mi? Çok fazla İngilizce veya Arapçaya mı kayıyor?
 4. Kötü/argo/şiddet içeren kelime kontrolü.
 5. Aynı harfte işk 4 kelime kontrolü.
+6. Hayat görüşümüze ters kelimeler var mı? (Örnek:nihilist)
