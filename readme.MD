@@ -30,4 +30,4 @@ Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle. Dağ
 4. Kötü/argo/şiddet içeren kelime kontrolü.(Örn:tosuncuk, pezevenk)
 5. Aynı harfte işk 4 kelime kontrolü.
 6. Hayat görüşümüze ters kelimeler var mı? (Örnek:nihilist)
-7. Özel isim kotrolü
+7. Özel isim kontrolü
