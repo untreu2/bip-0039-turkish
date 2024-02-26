@@ -28,7 +28,7 @@ Kontrolleri yapanlar check koyabilir. En az 1 fail olursa yeni kelime ekle. Dağ
 2. Eş anlamlı veya benzer başka bir kelime var mı?(Örn: zor-zorla)
 3. Bilinen bir kelime mi? Çok fazla İngilizce veya Arapçaya mı kayıyor?
 4. Kötü/argo/şiddet içeren kelime kontrolü.(Örn:tosuncuk, pezevenk)
-5. Aynı harfte işk 4 kelime kontrolü.
+5. Manuel ilk 4 harf kontrolü
 6. Hayat görüşümüze ters kelimeler var mı? (Örnek:nihilist)
 7. Özel isim kontrolü
 8. Kontrol edenin hoşuna gitmeyen bir kelime bile olabilir.
