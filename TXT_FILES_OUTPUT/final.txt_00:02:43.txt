@@ -2043,6 +2043,5 @@ ziyaret
 ziynet
 zodyak
 zor
-zoraki
 zorunlu
 zurna
