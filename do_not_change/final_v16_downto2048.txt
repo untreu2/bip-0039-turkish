@@ -498,7 +498,6 @@ eksik
 ekstra
 ekvator
 elalem
-eleman
 elastik
 elbette
 elbise
@@ -2044,5 +2043,6 @@ ziyaret
 ziynet
 zodyak
 zor
+zoraki
 zorunlu
 zurna
